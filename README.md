@@ -6,30 +6,30 @@
 
 Durante la 42 Piscine de octubre de 2022, completé los siguientes proyectos:
 
-- [Piscine-Shell00](Piscine Shell00) - 100%
-- [Piscine-Shell01](Piscine Shell01) - Not Registered
-- [Piscine-C00](Piscine C00) - 85%
-- [Piscine-C01](Piscine C01) - 100%
-- [Piscine-C02](Piscine C02) - 65%
-- [Piscine-C03](Piscine C03) - 50%
-- [Piscine-C04](Piscine C04) - 70%
-- [Piscine-C05](Piscine C05) - 40%
-- [Piscine-C06](Piscine C06) - 70%
-- [Piscine-C07](Piscine C07) - Not Registered
-- [Piscine-C08](Piscine C08) - Not Registered
-- [Piscine-C09](Piscine C09) - Not Registered
-- [Piscine-C10](Piscine C10) - Not Registered
-- [Piscine-C11](Piscine C11) - Not Registered
-- [Piscine-C12](Piscine C12) - Not Registered
-- [Piscine-C13](Piscine C13) - Not Registered
-- [Rush00](rush00) - 116%
-- [Rush01](rush01) - 0%
-- [Rush02](rush02) - Not Registered
-- [BSQ](bsq) - Not Registered
-- [Piscine-Exam00](Piscine Exam00) - 0%
-- [Piscine-Exam01](Piscine Exam01) - 32%
-- [Piscine-Exam02](Piscine Exam02) - 28%
-- [Piscine-Final-Exam](Piscine Final Exam) - 60%
+- [Shell00]Piscine Shell 00 - 100%
+- Piscine Shell 01 - Not Registered
+- [C00]Piscine C00 - 85%
+- [C01]Piscine C 01 - 100%
+- [C02]Piscine C 02 - 65%
+- [C03]Piscine C 03 - 50%
+- [C04]Piscine C 04 - 70%
+- [C05]Piscine C 05 - 40%
+- Piscine C 06) - 70%
+- Piscine C 07 - Not Registered
+- Piscine C 08 - Not Registered
+- Piscine C 09 - Not Registered
+- Piscine C 10 - Not Registered
+- Piscine C 11 - Not Registered
+- Piscine C 12 - Not Registered
+- Piscine C 13 - Not Registered
+- rush 00 - 116%
+- rush 01 - 0%
+- rush 02 - Not Registered
+- BSQ - Not Registered
+- Piscine Exam 00 - 0%
+- Piscine Exam 01 - 32%
+- Piscine Exam 02 - 28%
+- Piscine Final Exam - 60%
 
 
 
