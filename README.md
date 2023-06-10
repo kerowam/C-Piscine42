@@ -1,3 +1,4 @@
+![Header](https://github.com/kerowam/Piscine42/assets/105356789/91ac82b6-917b-460e-b7e3-084a0ba398d8)
 # 42 C Piscine - Octubre 2022
 
 ¡Bienvenido a mi repositorio de la 42 Piscine! Aquí encontrarás los proyectos que realicé durante la piscine, así como mi progreso en cada uno de ellos.
