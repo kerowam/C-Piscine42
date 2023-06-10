@@ -6,14 +6,14 @@
 
 Durante la 42 Piscine de octubre de 2022, completé los siguientes proyectos:
 
-- [Shell00]Piscine Shell 00 - 100%
+- Piscine Shell 00 - 100%
 - Piscine Shell 01 - Not Registered
-- [C00]Piscine C00 - 85%
-- [C01]Piscine C 01 - 100%
-- [C02]Piscine C 02 - 65%
-- [C03]Piscine C 03 - 50%
-- [C04]Piscine C 04 - 70%
-- [C05]Piscine C 05 - 40%
+- Piscine C00 - 85%
+- Piscine C 01 - 100%
+- Piscine C 02 - 65%
+- Piscine C 03 - 50%
+- Piscine C 04 - 70%
+- Piscine C 05 - 40%
 - Piscine C 06) - 70%
 - Piscine C 07 - Not Registered
 - Piscine C 08 - Not Registered
